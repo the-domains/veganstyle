@@ -1,0 +1,28 @@
+name: veganstyle
+favicon: null
+layout_spectrum: 0.682825970929116
+typography_spectrum: 0.3238782847765833
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5242479117587209
+  lightness: 0.24837200809270144
+  saturation: 0.20682746195234358
+  rhythmicContrast: 0.9901491329073906
+purpose: []
