@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[veganstyle]]></title>
         <description><![CDATA[veganstyle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/veganstyle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 00:53:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 00:54:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/veganstyle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cruelty Free Fashion Parade 2014]]></title>
+            <description><![CDATA[<article><h1>Cruelty Free Fashion Parade 2014</h1><p>The first Cruelty Free Fashion Parade at this years Cruelty Free Festival showing that there are lots of amazing cruelty free alternatives to Leather, Fur, and other animal products. http://www.crueltyfreefestival.org.au Designers and supporters included: CYMONE ROSE co-host ARIANWEN PARKES-LOCKWOOD co-host THE LOVECHILD: Curating designer brands from iconic cities like LA and New York, The LOVECHILD are a committed and passionate cruelty free fashion supplier.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df48d624223cc699c442bc93319436f3d6d3a963.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=jAhlq4taktQ</link>
+            <guid isPermaLink="false">888de44d-948a-4489-a14e-e21665e54153</guid>
+            <pubDate>Sun, 20 Mar 2016 00:53:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Say Hello to Sproutli - World's Largest Vegan & Vegetarian Directory]]></title>
             <description><![CDATA[<article><h1>Say Hello to Sproutli - World's Largest Vegan & Vegetarian Directory</h1><p>Discover vegan-friendly restaurants near you and around the world with Sproutli. With Sproutli, it's never been easier to go vegan and we want to help 1 million people adopt a vegan lifestyle by 2020! Sproutli helps you to find restaurants, cafes, clothing & shoes, accommodation, events, and professionals that are all vegan-friendly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d59f83748e3a5f040e3b1246b1f8f69aed03af26.jpg"></article>]]></description>
