@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[veganstyle]]></title>
+        <description><![CDATA[veganstyle]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Mar 2016 00:53:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Say Hello to Sproutli - World's Largest Vegan & Vegetarian Directory]]></title>
+            <description><![CDATA[<article><h1>Say Hello to Sproutli - World's Largest Vegan & Vegetarian Directory</h1><p>Discover vegan-friendly restaurants near you and around the world with Sproutli. With Sproutli, it's never been easier to go vegan and we want to help 1 million people adopt a vegan lifestyle by 2020! Sproutli helps you to find restaurants, cafes, clothing & shoes, accommodation, events, and professionals that are all vegan-friendly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d59f83748e3a5f040e3b1246b1f8f69aed03af26.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=zybsn1qGWMI</link>
+            <guid isPermaLink="false">f24dca03-b94b-445d-87ec-eba68e5c3d8d</guid>
+            <pubDate>Sun, 20 Mar 2016 00:53:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
